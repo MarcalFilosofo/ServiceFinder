@@ -1,0 +1,25 @@
+{
+  "name": "servicefinder",
+  "version": "0.0.1",
+  "description": " ServiceFinder (SF) is a web app who look for service companies to help public agencies to make bidding process",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"web",
+    "scrapping\"",
+    "\"bidding",
+    "process\"",
+    "\"node\"",
+    "\"mongoDB\"",
+    "\"mongo\""
+  ],
+  "author": "MarcalFilosofo",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^13.1.3",
+    "puppeteer-core": "^13.1.3",
+    "validate.js": "^0.13.1"
+  }
+}
